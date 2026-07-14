@@ -1,10 +1,10 @@
-# Hi, I'm Aishwarya 👋
+# Hi, I'm Rajesh 👋
 
 🔧 DevOps Engineer | Linux | Docker | Kubernetes | Azure
 
 ## 🚀 What I do
 - Building CI/CD pipelines
-- Managing cloud infra (AWS/GCP)
+- Managing cloud infra (Azure)
 - Automating everything with scripts
 
 ## 🛠️ Tech Stack
